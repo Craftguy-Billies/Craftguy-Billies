@@ -168,6 +168,7 @@ function predict(){
 body,html{
     margin:0;
     padding:0;
+    border:0;
 }
 </style>
 <iframe src="http://photograph.eu.org/rating.php" style="width:100%;height:100vh;margin:0;padding:0;"></iframe>
@@ -296,6 +297,7 @@ body,html{
 body,html{
     margin:0;
     padding:0;
+    border:0;
 }
 </style>
 <iframe src="https://girls.cbu.net" style="width:100%;height:100vh;margin:0;padding:0;"></iframe>
