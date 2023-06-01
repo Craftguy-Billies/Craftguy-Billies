@@ -1,19 +1,19 @@
 <h1>Welcome to billiez's Profile<h1>
     
 <h3>Craftguy's YouTube Channel:<h3>
-    <div>
+    <h6>
     <ul>
         <li><a href="www.youtube.com/@Craftguy">Go to Chinese Channel</a></li>
         <li><a href="www.youtube.com/@Craftguy2">Go to Chinese Channel</a></li>
     </ul>
-    </div>
+    </h6>
 
 <h3>Craftguy's Bilibili Channel:</h3>
-    <div>
+    <h6>
     <ul>
         <li><a href="https://space.bilibili.com/1507548366">Go to Bilibili Channel</a></li>
     </ul>
-    </div>
+    </h6>
 
 <h2>Recent Project: Scoring System by Appearance - HTML Code</h2>
 
