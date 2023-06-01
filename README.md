@@ -1,4 +1,17 @@
-<h1>Recent Project: Scoring System by Appearance - HTML Code</h1>
+<h1>Welcome to billiez's Profile<h1>
+    
+<h3>Craftguy's YouTube Channel:<h3>
+    <ul>
+        <li><a href="www.youtube.com/@Craftguy">Go to Chinese Channel</a></li>
+        <li><a href="www.youtube.com/@Craftguy2">Go to Chinese Channel</a></li>
+    </ul>
+
+<h3>Craftguy's Bilibili Channel:</h3>
+    <ul>
+        <li><a href="https://space.bilibili.com/1507548366">Go to Bilibili Channel</a></li>
+    </ul>
+
+<h2>Recent Project: Scoring System by Appearance - HTML Code</h2>
 
 ```js
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
