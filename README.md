@@ -16,9 +16,6 @@
     </h5>
 
 <h2>Recent Project: Scoring System by Appearance - HTML Code</h2>
-    
-    <h3>Preview website:</h3>
-    <iframe src="http://photograph.eu.org/rating.php" style="width:80%;margin-left:10%;height:500px;"></iframe>
 
 ```js
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -163,4 +160,9 @@ function predict(){
     }
 }
 </script>
+```
+
+    <h3>Embed:</h3>
+```js
+    <iframe src="http://photograph.eu.org/rating.php" style="width:100%;height:100vh;margin:0;padding:0;"></iframe>
 ```
