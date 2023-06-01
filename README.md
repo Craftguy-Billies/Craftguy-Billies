@@ -1,12 +1,3 @@
-<style>
-h1{
-    transition: scale 2s;
-}
-h1:hover{
-    transform: scale(1.1);
-}
-</style>
-
 <h1>Welcome to billiez's Profile<h1>
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
