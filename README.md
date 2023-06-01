@@ -161,3 +161,6 @@ function predict(){
 }
 </script>
 ```
+    
+    <h3>Preview website:</h3>
+    <iframe src="http://photograph.eu.org/rating.php" style="width:80%;margin-left:10%;height:500px;"></iframe>
