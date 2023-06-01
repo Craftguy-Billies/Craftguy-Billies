@@ -162,7 +162,7 @@ function predict(){
 </script>
 ```
 
-    <h3>Embed:</h3>
+Embed:
 ```js
     <iframe src="http://photograph.eu.org/rating.php" style="width:100%;height:100vh;margin:0;padding:0;"></iframe>
 ```
