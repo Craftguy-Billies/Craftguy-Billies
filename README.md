@@ -1,15 +1,3 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
-
 <h1>Welcome to billiez's Profile<h1>
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
