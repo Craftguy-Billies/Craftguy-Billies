@@ -3,7 +3,7 @@
     <h5>
     <ul>
         <li><a href="www.youtube.com/@Craftguy">Go to Chinese Channel</a></li>
-        <li><a href="www.youtube.com/@Craftguy2">Go to Chinese Channel</a></li>
+        <li><a href="www.youtube.com/@Craftguy2">Go to English Channel</a></li>
     </ul>
     </h5>
 
