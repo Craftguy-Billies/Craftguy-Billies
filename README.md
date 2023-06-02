@@ -1,4 +1,5 @@
 <h1>Welcome to billiez's Profile<h1>
+<img src="https://girls.cbu.net/banner.png" style="width:100%">
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
     <ul>
