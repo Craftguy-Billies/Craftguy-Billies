@@ -2,15 +2,15 @@
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
     <ul>
-        <li><a href="www.youtube.com/@Craftguy">Go to Chinese Channel</a></li>
-        <li><a href="www.youtube.com/@Craftguy2">Go to English Channel</a></li>
+        <li><a href="www.youtube.com/@Craftguy" target="_blank">Go to Chinese Channel</a></li>
+        <li><a href="www.youtube.com/@Craftguy2" target="_blank">Go to English Channel</a></li>
     </ul>
     </h5>
 
 <h3>Craftguy's Bilibili Channel:</h3>
     <h5>
     <ul>
-        <li><a href="https://space.bilibili.com/1507548366">Go to Bilibili Channel</a></li>
+        <li><a href="https://space.bilibili.com/1507548366" target="_blank">Go to Bilibili Channel</a></li>
     </ul>
     </h5>
 
