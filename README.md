@@ -15,6 +15,12 @@
     </ul>
     </h5>
 
+
+![](https://komarev.com/ghpvc/?username=Craftguy-Billies)
+![](https://komarev.com/ghpvc/?Craftguy-Billies=&style=for-the-badge)
+
+
+
 <h2>Recent Project: Scoring System by Appearance - HTML Code</h2>
 
 ```html
