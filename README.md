@@ -2,8 +2,8 @@
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
     <ul>
-        <li><a href="www.youtube.com/@Craftguy" target="_blank">Go to Chinese Channel</a></li>
-        <li><a href="www.youtube.com/@Craftguy2" target="_blank">Go to English Channel</a></li>
+        <li><a href="https://www.youtube.com/@Craftguy" target="_blank">Go to Chinese Channel</a></li>
+        <li><a href="https://www.youtube.com/@Craftguy2" target="_blank">Go to English Channel</a></li>
     </ul>
     </h5>
 
