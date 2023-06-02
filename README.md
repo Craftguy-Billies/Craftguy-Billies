@@ -289,7 +289,7 @@ body,html{
 </html>
 ```
     
-<h3>Javascript Code:</h3>
+<h3>Javascript Code - girls.js:</h3>
     
 ```javascript
     
