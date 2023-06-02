@@ -1,4 +1,4 @@
-<h1><img src="https://yt3.googleusercontent.com/ytc/AGIKgqPOqJk6sdPnH7SatHqQl2B1A9VTKzfREgMJpqNf=s900-c-k-c0x00ffffff-no-rj" style="width:50px">Welcome to billiez's Profile<h1>
+<h1><img src="https://yt3.googleusercontent.com/ytc/AGIKgqPOqJk6sdPnH7SatHqQl2B1A9VTKzfREgMJpqNf=s900-c-k-c0x00ffffff-no-rj" style="width:35px">Welcome to billiez's Profile<h1>
 <img src="https://billiez.tk/banner.png" style="width:100%">
 <h3>Craftguy's YouTube Channel:<h3>
     <h5>
