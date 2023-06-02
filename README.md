@@ -163,7 +163,7 @@ function predict(){
 
 <h3>Embed the website to your's:</h3>
     
-```
+```html
 <style>
 body,html{
     margin:0;
@@ -486,7 +486,7 @@ function print(){
     
 <h3>Embed the website to your's:</h3>
     
-```
+```html
 <style>
 body,html{
     margin:0;
